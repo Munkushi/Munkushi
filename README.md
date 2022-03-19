@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Daniil
 #### I am backend-developer
-![I am backend-developer](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2F%25D0%25BF%25D1%2580%25D0%25BE%25D0%25B3%25D1%2580%25D0%25B0%25D0%25BC%25D0%25BC%25D0%25B8%25D1%2581%25D1%2582&psig=AOvVaw00FEwHZXIjV1UAFGTUOT0H&ust=1647781330765000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjnn_qd0vYCFQAAAAAdAAAAABAD)
 
 
 Skills: python / django
